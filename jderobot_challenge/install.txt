@@ -1,0 +1,1528 @@
+[  0%] Built target JderobotInterfaces_Definitions
+[  7%] Built target JderobotInterfaces
+[  7%] Built target jderobotTypes_py
+[  7%] Built target config
+[  7%] Built target config_demo
+[  8%] Built target config-embedded
+[  8%] Built target colorspacesmm
+[  8%] Built target logger
+[ 13%] Built target comm
+[ 19%] Built target comm-embedded
+[ 19%] Built target jderobotcomm_py
+[ 19%] Built target fuzzylib
+[ 20%] Built target fuzzyshare
+[ 20%] Built target ns
+[ 21%] Built target xmlParser
+[ 22%] Built target xmlParsershare
+[ 22%] Built target config_py
+[ 24%] Built target jderobotutil
+[ 25%] Built target jderobotutilshare
+[ 25%] Built target resourcelocator
+[ 25%] Built target test_gladelocator
+[ 25%] Built target parallelIce_py
+[ 25%] Built target easyiceconfig_py
+[ 25%] Built target jderobotHandlers
+[ 25%] Built target jderobotHandlersshare
+[ 25%] Built target progeo
+[ 26%] Built target progeoshare
+[ 27%] Built target jderobotViewer
+[ 27%] Built target jderobotViewerShare
+[ 27%] Built target depthLib
+[ 28%] Built target depthLibshare
+[ 29%] Built target colorspaces
+[ 30%] Built target colorspacesshare
+[ 32%] Built target cvblob
+[ 32%] Built target cvfast
+[ 34%] Built target imgAnalyze
+[ 38%] Built target geometry
+[ 39%] Built target test_stdutils
+[ 40%] Built target demo
+[ 41%] Built target easyiceconfig-embedded
+[ 41%] Built target easyiceconfig
+[ 41%] Built target test_loader
+[ 42%] Built target parallelIce
+[ 43%] Built target parallelIceshare
+[ 43%] Built target namingService
+[ 47%] Built target recorder2
+[ 48%] Built target navigatorCamera
+[ 49%] Built target rgbdCalibrator
+[ 50%] Built target visualStatesRunTime
+[ 50%] Built target replayController
+[ 51%] Built target rgbdManualCalibrator
+[ 51%] Automatic moc for target carViz
+[ 51%] Built target carViz_automoc
+[ 54%] Built target carViz
+[ 54%] Built target camViz
+[ 54%] Automatic moc for target uav_viewer
+[ 54%] Built target uav_viewer_automoc
+[ 56%] Built target uav_viewer
+[ 57%] Built target cameraCalibrator
+[ 60%] Built target replayer2
+[ 61%] Built target rgbdViz
+[ 62%] Built target giraffeClient
+[ 63%] Built target ardrone_server_msgs
+[ 64%] Built target ardrone_print_gps_data
+[ 67%] Built target ardrone_server
+[ 67%] Built target openni1Server
+[ 69%] Built target openniServer
+[ 70%] Built target camserver
+[ 70%] Built target pclRGBDServer
+[ 71%] Built target evicam_driver
+[ 71%] Built target testpt
+[ 71%] Built target holoCarMotors
+[ 71%] Built target holoCarPose3D
+[ 72%] Built target sonarMBOT
+[ 72%] Built target pose3dMBOT
+[ 73%] Built target motorsMBOT
+[ 74%] Built target camera_dumpMBOT
+[ 75%] Built target irMBOT
+[ 75%] Built target formula1_headers
+[ 78%] Built target formula1plugin
+[ 78%] Built target carMotors
+[ 78%] Built target carPose3D
+[ 78%] Built target gazebo_ros_screw_plugin
+[ 79%] Built target gazebo_kinectplugin
+[ 79%] Built target roomba_headers
+[ 81%] Built target roombaplugin
+[ 81%] Built target lasertaxi
+[ 81%] Built target camera_dump
+[ 82%] Built target pose3d_pioneer
+[ 82%] Built target laser
+[ 82%] Built target pose3dencoders
+[ 83%] Built target motors
+[ 83%] Built target quadrotor2_headers
+[ 86%] Built target quadrotorplugin2
+[ 86%] Built target carplugin
+[ 86%] Built target turtlebot_headers
+[ 89%] Built target turtlebotplugin
+[ 90%] Built target kinectPlugin
+[ 90%] Built target camera_dumpF1
+[ 90%] Built target motorsF1
+[ 91%] Built target pose3dF1
+[ 92%] Built target laserF1
+[ 92%] Built target wall3plugin
+[ 93%] Built target wall2plugin
+[ 93%] Built target wall1plugin
+[ 93%] Built target wall4plugin
+[ 93%] Built target camera_dumpopel
+[ 93%] Built target opelPose3D
+[ 94%] Built target opelMotors
+[ 95%] Built target basic_server
+[ 96%] Built target opencvdemo
+[100%] Built target basic_component
+Install the project...
+-- Install configuration: ""
+-- Installing: /opt/jderobot/share/jderobot/Deps
+-- Installing: /opt/jderobot/share/jderobot/Deps/libfreenect2
+-- Installing: /opt/jderobot/share/jderobot/Deps/libfreenect2/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/cuda
+-- Installing: /opt/jderobot/share/jderobot/Deps/cuda/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/opencv
+-- Installing: /opt/jderobot/share/jderobot/Deps/opencv/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/glog
+-- Installing: /opt/jderobot/share/jderobot/Deps/glog/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-sim
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-sim/Makefile
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-sim/CMakeFiles
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-sim/CMakeFiles/CMakeDirectoryInformation.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-sim/CMakeFiles/progress.marks
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-sim/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-sim/cmake_install.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/laser
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/laser/Makefile
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/laser/CMakeFiles
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/laser/CMakeFiles/CMakeDirectoryInformation.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/laser/CMakeFiles/progress.marks
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/laser/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/laser/cmake_install.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-real
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-real/Makefile
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-real/CMakeFiles
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-real/CMakeFiles/CMakeDirectoryInformation.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-real/CMakeFiles/progress.marks
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-real/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/ros/kobuki-real/cmake_install.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/tinyxml
+-- Installing: /opt/jderobot/share/jderobot/Deps/tinyxml/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/openni2
+-- Installing: /opt/jderobot/share/jderobot/Deps/openni2/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/openni
+-- Installing: /opt/jderobot/share/jderobot/Deps/openni/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/libusb
+-- Installing: /opt/jderobot/share/jderobot/Deps/libusb/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/opengl
+-- Installing: /opt/jderobot/share/jderobot/Deps/opengl/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/openssl
+-- Installing: /opt/jderobot/share/jderobot/Deps/openssl/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/libxml2
+-- Installing: /opt/jderobot/share/jderobot/Deps/libxml2/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/pcl
+-- Installing: /opt/jderobot/share/jderobot/Deps/pcl/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/kurt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/kurt/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/opencv_py
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/opencv_py/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/yaml
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/yaml/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/numpy
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/numpy/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/pyqt5
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/pyqt5/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/pip
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/pip/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/ice_py
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/ice_py/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/matplotlib_py
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/matplotlib_py/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/parse
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/parse/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/termcolor
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/termcolor/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/imutils
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/Modules/imutils/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/python/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/alut
+-- Installing: /opt/jderobot/share/jderobot/Deps/alut/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/boost
+-- Installing: /opt/jderobot/share/jderobot/Deps/boost/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/zlib
+-- Installing: /opt/jderobot/share/jderobot/Deps/zlib/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/ogre
+-- Installing: /opt/jderobot/share/jderobot/Deps/ogre/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/fireware
+-- Installing: /opt/jderobot/share/jderobot/Deps/fireware/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/pthread
+-- Installing: /opt/jderobot/share/jderobot/Deps/pthread/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/ardrone_sdk
+-- Installing: /opt/jderobot/share/jderobot/Deps/ardrone_sdk/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/gtk2
+-- Installing: /opt/jderobot/share/jderobot/Deps/gtk2/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/qt
+-- Installing: /opt/jderobot/share/jderobot/Deps/qt/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/youtube_dl
+-- Installing: /opt/jderobot/share/jderobot/Deps/youtube_dl/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/nite
+-- Installing: /opt/jderobot/share/jderobot/Deps/nite/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/qfi
+-- Installing: /opt/jderobot/share/jderobot/Deps/qfi/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/nite2
+-- Installing: /opt/jderobot/share/jderobot/Deps/nite2/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMake/FindZeroCIceGrid.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMake/FindZeroCIceSSL.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMake/FindZeroIceCore.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMake/FindZeroCIceBox.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMake/FindZeroCIceExecutables.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMake/FindZeroCIce.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMake/FindZeroCIceXML.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMake/FindZeroCIcePatch2.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMake/FindZeroCIceStorm.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMake/FindZeroCIceUtil.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/ice/CMake/FindZeroCIceCore.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/gazebo
+-- Installing: /opt/jderobot/share/jderobot/Deps/gazebo/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/libxml++
+-- Installing: /opt/jderobot/share/jderobot/Deps/libxml++/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/eigen3
+-- Installing: /opt/jderobot/share/jderobot/Deps/eigen3/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/LoadJderobotDependencies.cmake
+-- Installing: /opt/jderobot/share/jderobot/Deps/gsl
+-- Installing: /opt/jderobot/share/jderobot/Deps/gsl/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/mmal
+-- Installing: /opt/jderobot/share/jderobot/Deps/mmal/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/xerces
+-- Installing: /opt/jderobot/share/jderobot/Deps/xerces/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/xerces/Ogre.log
+-- Installing: /opt/jderobot/share/jderobot/Deps/yaml-cpp
+-- Installing: /opt/jderobot/share/jderobot/Deps/yaml-cpp/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/gtk3
+-- Installing: /opt/jderobot/share/jderobot/Deps/gtk3/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/nodejs
+-- Installing: /opt/jderobot/share/jderobot/Deps/nodejs/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/Deps/vtk
+-- Installing: /opt/jderobot/share/jderobot/Deps/vtk/CMakeLists.txt
+-- Installing: /opt/jderobot/setup.bash
+-- Installing: /opt/jderobot/share/jderobot/JdeRobotConfig.cmake
+-- Installing: /opt/jderobot/share/jderobot/JdeRobotConfigVersion.cmake
+-- Installing: /opt/jderobot/lib/python2.7/JdeRobotKids.py
+-- Installing: /opt/jderobot/lib/libJderobotInterfaces.so
+-- Installing: /opt/jderobot/lib/python2.7/jcm_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/sonars_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/pose3dencoders_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/recorder_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/namingService_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/genericData_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/ptencoders_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/exceptions_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/encoders_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/control_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/jointmotor_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/rgbd_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/emSensor_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/visualization_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/ardroneextra_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/jderobot
+-- Installing: /opt/jderobot/lib/python2.7/jderobot/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/common_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/primitives_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/bumper_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/containers_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/sonar_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/remoteConfig_ice.py
+-- Up-to-date: /opt/jderobot/lib/python2.7/JdeRobotKids.py
+-- Installing: /opt/jderobot/lib/python2.7/replayControl_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/pose3d_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/kinectleds_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/motors_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/camera_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/cmdvel_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/remoteCloud_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/laser_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/ir_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/Kibotics.py
+-- Installing: /opt/jderobot/lib/python2.7/navdata_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/datetime_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/pose3dmotors_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/ptmotors_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/RoboCompJointMotor
+-- Installing: /opt/jderobot/lib/python2.7/RoboCompJointMotor/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/image_ice.py
+-- Installing: /opt/jderobot/lib/python2.7/pointcloud_ice.py
+-- Installing: /opt/jderobot/include/jderobot
+-- Installing: /opt/jderobot/include/jderobot/ir.h
+-- Installing: /opt/jderobot/include/jderobot/pose3d.h
+-- Installing: /opt/jderobot/include/jderobot/navdata.h
+-- Installing: /opt/jderobot/include/jderobot/common.h
+-- Installing: /opt/jderobot/include/jderobot/genericData.h
+-- Installing: /opt/jderobot/include/jderobot/pose3dmotors.h
+-- Installing: /opt/jderobot/include/jderobot/rgbd.h
+-- Installing: /opt/jderobot/include/jderobot/remoteConfig.h
+-- Installing: /opt/jderobot/include/jderobot/control.h
+-- Installing: /opt/jderobot/include/jderobot/ptmotors.h
+-- Installing: /opt/jderobot/include/jderobot/datetime.h
+-- Installing: /opt/jderobot/include/jderobot/camera.h
+-- Installing: /opt/jderobot/include/jderobot/exceptions.h
+-- Installing: /opt/jderobot/include/jderobot/motors.h
+-- Installing: /opt/jderobot/include/jderobot/kinectleds.h
+-- Installing: /opt/jderobot/include/jderobot/sonar.h
+-- Installing: /opt/jderobot/include/jderobot/encoders.h
+-- Installing: /opt/jderobot/include/jderobot/image.h
+-- Installing: /opt/jderobot/include/jderobot/primitives.h
+-- Installing: /opt/jderobot/include/jderobot/replayControl.h
+-- Installing: /opt/jderobot/include/jderobot/pointcloud.h
+-- Installing: /opt/jderobot/include/jderobot/ptencoders.h
+-- Installing: /opt/jderobot/include/jderobot/emSensor.h
+-- Installing: /opt/jderobot/include/jderobot/recorder.h
+-- Installing: /opt/jderobot/include/jderobot/ardroneextra.h
+-- Installing: /opt/jderobot/include/jderobot/jcm.h
+-- Installing: /opt/jderobot/include/jderobot/pose3dencoders.h
+-- Installing: /opt/jderobot/include/jderobot/sonars.h
+-- Installing: /opt/jderobot/include/jderobot/visualization.h
+-- Installing: /opt/jderobot/include/jderobot/cmdvel.h
+-- Installing: /opt/jderobot/include/jderobot/remoteCloud.h
+-- Installing: /opt/jderobot/include/jderobot/containers.h
+-- Installing: /opt/jderobot/include/jderobot/jointmotor.h
+-- Installing: /opt/jderobot/include/jderobot/laser.h
+-- Installing: /opt/jderobot/include/jderobot/namingService.h
+-- Installing: /opt/jderobot/include/jderobot/bumper.h
+-- Installing: /opt/jderobot/include/jderobot/slice/pointcloud.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/namingService.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/motors.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/jcm.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/ardroneextra.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/image.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/common.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/exceptions.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/navdata.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/laser.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/replayControl.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/pose3d.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/emSensor.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/cmdvel.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/recorder.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/containers.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/sonar.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/ptencoders.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/sonars.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/visualization.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/datetime.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/encoders.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/rgbd.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/ptmotors.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/remoteCloud.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/jointmotor.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/remoteConfig.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/pose3dmotors.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/primitives.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/ir.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/kinectleds.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/camera.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/control.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/genericData.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/bumper.ice
+-- Installing: /opt/jderobot/include/jderobot/slice/pose3dencoders.ice
+-- Up-to-date: /opt/jderobot/include
+-- Up-to-date: /opt/jderobot/include/jderobot
+-- Installing: /opt/jderobot/include/jderobot/types
+-- Installing: /opt/jderobot/include/jderobot/types/ir.h
+-- Installing: /opt/jderobot/include/jderobot/types/pose3d.h
+-- Installing: /opt/jderobot/include/jderobot/types/rgbd.h
+-- Installing: /opt/jderobot/include/jderobot/types/sonar.h
+-- Installing: /opt/jderobot/include/jderobot/types/image.h
+-- Installing: /opt/jderobot/include/jderobot/types/bumperData.h
+-- Installing: /opt/jderobot/include/jderobot/types/navdataData.h
+-- Installing: /opt/jderobot/include/jderobot/types/cmdvel.h
+-- Installing: /opt/jderobot/include/jderobot/types/laserData.h
+-- Installing: /opt/jderobot/lib/python2.7/jderobotTypes
+-- Installing: /opt/jderobot/lib/python2.7/jderobotTypes/pose3d.py
+-- Installing: /opt/jderobot/lib/python2.7/jderobotTypes/ir.py
+-- Installing: /opt/jderobot/lib/python2.7/jderobotTypes/sonar.py
+-- Installing: /opt/jderobot/lib/python2.7/jderobotTypes/bumper.py
+-- Installing: /opt/jderobot/lib/python2.7/jderobotTypes/cmdvel.py
+-- Installing: /opt/jderobot/lib/python2.7/jderobotTypes/rgbd.py
+-- Installing: /opt/jderobot/lib/python2.7/jderobotTypes/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/jderobotTypes/image.py
+-- Installing: /opt/jderobot/lib/python2.7/jderobotTypes/laserData.py
+-- Installing: /opt/jderobot/lib/python2.7/jderobotTypes/navdataData.py
+-- Installing: /opt/jderobot/lib/python3.5/jderobotTypes
+-- Installing: /opt/jderobot/lib/python3.5/jderobotTypes/pose3d.py
+-- Installing: /opt/jderobot/lib/python3.5/jderobotTypes/ir.py
+-- Installing: /opt/jderobot/lib/python3.5/jderobotTypes/sonar.py
+-- Installing: /opt/jderobot/lib/python3.5/jderobotTypes/bumper.py
+-- Installing: /opt/jderobot/lib/python3.5/jderobotTypes/cmdvel.py
+-- Installing: /opt/jderobot/lib/python3.5/jderobotTypes/rgbd.py
+-- Installing: /opt/jderobot/lib/python3.5/jderobotTypes/__init__.py
+-- Installing: /opt/jderobot/lib/python3.5/jderobotTypes/image.py
+-- Installing: /opt/jderobot/lib/python3.5/jderobotTypes/laserData.py
+-- Installing: /opt/jderobot/lib/python3.5/jderobotTypes/navdataData.py
+-- Installing: /opt/jderobot/lib/libconfig.so
+-- Set runtime path of "/opt/jderobot/lib/libconfig.so" to ""
+-- Installing: /opt/jderobot/lib/libconfig-embedded.a
+-- Up-to-date: /opt/jderobot/include
+-- Up-to-date: /opt/jderobot/include/jderobot
+-- Installing: /opt/jderobot/include/jderobot/config
+-- Installing: /opt/jderobot/include/jderobot/config/loader.hpp
+-- Installing: /opt/jderobot/include/jderobot/config/stdutils.hpp
+-- Installing: /opt/jderobot/include/jderobot/config/hardcodedlocations.h.in
+-- Installing: /opt/jderobot/include/jderobot/config/config.h
+-- Installing: /opt/jderobot/include/jderobot/config/properties.hpp
+-- Installing: /opt/jderobot/lib/pkgconfig/comm.pc
+-- Installing: /opt/jderobot/share/comm/cmake/commConfig.cmake
+-- Installing: /opt/jderobot/share/comm/cmake/commConfig-version.cmake
+-- Installing: /opt/jderobot/share/comm/package.xml
+-- Installing: /opt/jderobot/lib/libcomm.so
+-- Set runtime path of "/opt/jderobot/lib/libcomm.so" to ""
+-- Installing: /opt/jderobot/lib/libcomm-embedded.a
+-- Up-to-date: /opt/jderobot/include
+-- Up-to-date: /opt/jderobot/include/jderobot
+-- Installing: /opt/jderobot/include/jderobot/comm
+-- Installing: /opt/jderobot/include/jderobot/comm/laserClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/navdataClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ros
+-- Installing: /opt/jderobot/include/jderobot/comm/ros/listenerLaser.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ros/translators.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ros/publisherMotors.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ros/listenerBumper.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ros/listenerRgbd.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ros/listenerCamera.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ros/listenerPose.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/pose3dClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/cameraClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/bumperClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ardroneextraClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/communicator.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/motorsClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/interfaces
+-- Installing: /opt/jderobot/include/jderobot/comm/interfaces/laserClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/interfaces/navdataClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/interfaces/pose3dClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/interfaces/cameraClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/interfaces/bumperClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/interfaces/ardroneextraClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/interfaces/motorsClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/interfaces/cmdvelClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/interfaces/rgbdClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/cmdvelClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ice
+-- Installing: /opt/jderobot/include/jderobot/comm/ice/cameraIceClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ice/laserIceClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ice/rgbdIceClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ice/cmdvelIceClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ice/ardroneextraIceClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ice/navdataIceClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ice/pose3dIceClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ice/motorsIceClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/ice/bumperIceClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/rgbdClient.hpp
+-- Installing: /opt/jderobot/include/jderobot/comm/tools.hpp
+-- Installing: /opt/jderobot/lib/python2.7/comm
+-- Installing: /opt/jderobot/lib/python2.7/comm/motorsClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/communicator.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ros
+-- Installing: /opt/jderobot/lib/python2.7/comm/ros/listenerCamera.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ros/publisherCmdVel.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ros/listenerRgbd.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ros/listenerBumper.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ros/listenerLaser.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ros/publisherExtra.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ros/publisherMotors.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ros/threadPublisher.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ros/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ros/listenerPose3d.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/cmdvelClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/navdataClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/cameraClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ardroneextraClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/laserClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/bumperClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/navdataIceClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/threadSensor.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/bumperIceClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/laserIceClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/ptMotorsIceClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/motorsIceClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/rgbdIceClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/irIceClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/pose3dIceClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/sonarIceClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/cameraIceClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/cmdvelIceClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ice/ardroneextraIceClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/tools.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/rgbdClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/pose3dClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/ptMotorsClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/sonarClient.py
+-- Installing: /opt/jderobot/lib/python2.7/comm/irClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm
+-- Installing: /opt/jderobot/lib/python3.5/comm/motorsClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/communicator.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ros
+-- Installing: /opt/jderobot/lib/python3.5/comm/ros/listenerCamera.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ros/publisherCmdVel.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ros/listenerRgbd.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ros/listenerBumper.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ros/listenerLaser.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ros/publisherExtra.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ros/publisherMotors.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ros/threadPublisher.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ros/__init__.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ros/listenerPose3d.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/cmdvelClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/navdataClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/cameraClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ardroneextraClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/laserClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/bumperClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/navdataIceClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/threadSensor.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/bumperIceClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/laserIceClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/ptMotorsIceClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/motorsIceClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/rgbdIceClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/irIceClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/pose3dIceClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/sonarIceClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/cameraIceClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/__init__.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/cmdvelIceClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ice/ardroneextraIceClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/tools.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/__init__.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/rgbdClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/pose3dClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/ptMotorsClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/sonarClient.py
+-- Installing: /opt/jderobot/lib/python3.5/comm/irClient.py
+-- Installing: /opt/jderobot/lib/libfuzzylib.a
+-- Installing: /opt/jderobot/lib/libfuzzylib.so
+-- Installing: /opt/jderobot/include/jderobot/fuzzylib/fuzzylib.h
+-- Installing: /opt/jderobot/lib/liblogger.so
+-- Set runtime path of "/opt/jderobot/lib/liblogger.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/logger/Logger.h
+-- Installing: /opt/jderobot/lib/libns.so
+-- Set runtime path of "/opt/jderobot/lib/libns.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/ns/ns.h
+-- Installing: /opt/jderobot/lib/libxmlParser.a
+-- Installing: /opt/jderobot/lib/libxmlParser.so
+-- Set runtime path of "/opt/jderobot/lib/libxmlParser.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/xmlParser/xmlReaderParser.h
+-- Installing: /opt/jderobot/include/jderobot/xmlParser/xmlWriterParser.h
+-- Installing: /opt/jderobot/lib/python2.7/config
+-- Installing: /opt/jderobot/lib/python2.7/config/properties.py
+-- Installing: /opt/jderobot/lib/python2.7/config/config.py
+-- Installing: /opt/jderobot/lib/python2.7/config/__init__.py
+-- Installing: /opt/jderobot/lib/python3.5/config
+-- Installing: /opt/jderobot/lib/python3.5/config/properties.py
+-- Installing: /opt/jderobot/lib/python3.5/config/config.py
+-- Installing: /opt/jderobot/lib/python3.5/config/__init__.py
+-- Installing: /opt/jderobot/lib/libjderobotutil.a
+-- Installing: /opt/jderobot/lib/libjderobotutil.so
+-- Installing: /opt/jderobot/include/jderobot/jderobotutil/uncopyable.h
+-- Installing: /opt/jderobot/include/jderobot/jderobotutil/jderobotutil.h
+-- Installing: /opt/jderobot/include/jderobot/jderobotutil/observer.h
+-- Installing: /opt/jderobot/include/jderobot/jderobotutil/time.h
+-- Installing: /opt/jderobot/include/jderobot/jderobotutil/CameraTask.h
+-- Installing: /opt/jderobot/include/jderobot/jderobotutil/RGBDHandler.h
+-- Installing: /opt/jderobot/include/jderobot/jderobotutil/CameraHandler.h
+-- Installing: /opt/jderobot/include/jderobot/jderobotutil/paramdict.h
+-- Installing: /opt/jderobot/include/jderobot/jderobotutil/CameraUtils.h
+-- Installing: /opt/jderobot/lib/libresourcelocator.so
+-- Up-to-date: /opt/jderobot/include
+-- Installing: /opt/jderobot/include/resourcelocator
+-- Installing: /opt/jderobot/include/resourcelocator/stdutils.hpp
+-- Installing: /opt/jderobot/include/resourcelocator/resourcelocator.hpp
+-- Installing: /opt/jderobot/include/resourcelocator/gladelocator.hpp
+-- Installing: /opt/jderobot/lib/python2.7/parallelIce
+-- Installing: /opt/jderobot/lib/python2.7/parallelIce/threadSensor.py
+-- Installing: /opt/jderobot/lib/python2.7/parallelIce/motors.py
+-- Installing: /opt/jderobot/lib/python2.7/parallelIce/ptMotors.py
+-- Installing: /opt/jderobot/lib/python2.7/parallelIce/cameraClient.py
+-- Installing: /opt/jderobot/lib/python2.7/parallelIce/cmdvel.py
+-- Installing: /opt/jderobot/lib/python2.7/parallelIce/laserClient.py
+-- Installing: /opt/jderobot/lib/python2.7/parallelIce/bumperClient.py
+-- Installing: /opt/jderobot/lib/python2.7/parallelIce/extra.py
+-- Installing: /opt/jderobot/lib/python2.7/parallelIce/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/parallelIce/pose3dClient.py
+-- Installing: /opt/jderobot/lib/python2.7/parallelIce/navDataClient.py
+-- Installing: /opt/jderobot/lib/python3.5/parallelIce
+-- Installing: /opt/jderobot/lib/python3.5/parallelIce/threadSensor.py
+-- Installing: /opt/jderobot/lib/python3.5/parallelIce/motors.py
+-- Installing: /opt/jderobot/lib/python3.5/parallelIce/ptMotors.py
+-- Installing: /opt/jderobot/lib/python3.5/parallelIce/cameraClient.py
+-- Installing: /opt/jderobot/lib/python3.5/parallelIce/cmdvel.py
+-- Installing: /opt/jderobot/lib/python3.5/parallelIce/laserClient.py
+-- Installing: /opt/jderobot/lib/python3.5/parallelIce/bumperClient.py
+-- Installing: /opt/jderobot/lib/python3.5/parallelIce/extra.py
+-- Installing: /opt/jderobot/lib/python3.5/parallelIce/__init__.py
+-- Installing: /opt/jderobot/lib/python3.5/parallelIce/pose3dClient.py
+-- Installing: /opt/jderobot/lib/python3.5/parallelIce/navDataClient.py
+-- Installing: /opt/jderobot/lib/python2.7/easyiceconfig
+-- Installing: /opt/jderobot/lib/python2.7/easyiceconfig/easyiceconfig.py
+-- Installing: /opt/jderobot/lib/python2.7/easyiceconfig/hardcodedpaths.py
+-- Installing: /opt/jderobot/lib/python2.7/easyiceconfig/__init__.py
+-- Installing: /opt/jderobot/lib/python3.5/easyiceconfig
+-- Installing: /opt/jderobot/lib/python3.5/easyiceconfig/easyiceconfig.py
+-- Installing: /opt/jderobot/lib/python3.5/easyiceconfig/hardcodedpaths.py
+-- Installing: /opt/jderobot/lib/python3.5/easyiceconfig/__init__.py
+-- Installing: /opt/jderobot/lib/libjderobotHandlers.a
+-- Installing: /opt/jderobot/lib/libjderobotHandlers.so
+-- Set runtime path of "/opt/jderobot/lib/libjderobotHandlers.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/jderobotHandlers/common/CommonHandler.h
+-- Installing: /opt/jderobot/include/jderobot/jderobotHandlers/ReplayControlerClientHDL.h
+-- Installing: /opt/jderobot/lib/libprogeo.a
+-- Installing: /opt/jderobot/lib/libprogeo.so
+-- Set runtime path of "/opt/jderobot/lib/libprogeo.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/progeo/progeo.h
+-- Installing: /opt/jderobot/lib/libjderobotViewer.a
+-- Installing: /opt/jderobot/lib/libjderobotViewer.so
+-- Set runtime path of "/opt/jderobot/lib/libjderobotViewer.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/jderobotViewer/JderobotViewer.h
+-- Installing: /opt/jderobot/lib/libdepthLib.a
+-- Installing: /opt/jderobot/lib/libdepthLib.so
+-- Set runtime path of "/opt/jderobot/lib/libdepthLib.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/depthLib/DepthSampler.h
+-- Installing: /opt/jderobot/include/jderobot/depthLib/DepthFilter.h
+-- Installing: /opt/jderobot/include/jderobot/visionlib/visionlib.h
+-- Installing: /opt/jderobot/lib/libcolorspaces.a
+-- Installing: /opt/jderobot/lib/libcolorspacesmm.so
+-- Set runtime path of "/opt/jderobot/lib/libcolorspacesmm.so" to ""
+-- Installing: /opt/jderobot/lib/libcolorspaces.so
+-- Set runtime path of "/opt/jderobot/lib/libcolorspaces.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/visionlib/colorspaces/uncopyable.h
+-- Installing: /opt/jderobot/include/jderobot/visionlib/colorspaces/colorspaces.h
+-- Installing: /opt/jderobot/include/jderobot/visionlib/colorspaces/imagecv.h
+-- Installing: /opt/jderobot/include/jderobot/visionlib/colorspaces/colorspacesmm.h
+-- Installing: /opt/jderobot/lib/libcvblob.so
+-- Set runtime path of "/opt/jderobot/lib/libcvblob.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/visionlib/cvblob/cvblob.h
+-- Installing: /opt/jderobot/lib/libimgAnalyze.so
+-- Set runtime path of "/opt/jderobot/lib/libimgAnalyze.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/visionlib/imgAnalyze/image.h
+-- Installing: /opt/jderobot/include/jderobot/visionlib/imgAnalyze/structs.h
+-- Installing: /opt/jderobot/include/jderobot/visionlib/imgAnalyze/linesDetection.h
+-- Installing: /opt/jderobot/include/jderobot/visionlib/imgAnalyze/geometry.h
+-- Installing: /opt/jderobot/lib/libcvfast.so
+-- Set runtime path of "/opt/jderobot/lib/libcvfast.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/visionlib/cvfast/cvfast.h
+-- Installing: /opt/jderobot/lib/libgeometry.so
+-- Set runtime path of "/opt/jderobot/lib/libgeometry.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/geometry/collada/material.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/collada/colladaparser.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/collada/submalla.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/collada/color.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/collada/malla.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/progeo/Progeo.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/matriz4x4.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/utils.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/recta.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/segmento.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/Point3D.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/plano.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/Line2D.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/geoconst.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/Line3D.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/Segment3D.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/Plane3D.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/matriz3x3.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/Segment2D.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/math/Point2D.h
+-- Installing: /opt/jderobot/include/jderobot/geometry/Dense.h
+-- Installing: /opt/jderobot/lib/libeasyiceconfig.so
+-- Set runtime path of "/opt/jderobot/lib/libeasyiceconfig.so" to ""
+-- Installing: /opt/jderobot/lib/libeasyiceconfig-embedded.a
+-- Up-to-date: /opt/jderobot/include
+-- Installing: /opt/jderobot/include/easyiceconfig
+-- Installing: /opt/jderobot/include/easyiceconfig/loader.hpp
+-- Installing: /opt/jderobot/include/easyiceconfig/debug.hpp
+-- Installing: /opt/jderobot/include/easyiceconfig/stdutils.hpp
+-- Installing: /opt/jderobot/include/easyiceconfig/initializer.hpp
+-- Installing: /opt/jderobot/include/easyiceconfig/EasyIce.h
+-- Installing: /opt/jderobot/include/easyiceconfig/injector.hpp
+-- Installing: /opt/jderobot/lib/libparallelIce.a
+-- Installing: /opt/jderobot/lib/libparallelIce.so
+-- Set runtime path of "/opt/jderobot/lib/libparallelIce.so" to ""
+-- Installing: /opt/jderobot/include/jderobot/parallelIce/pointcloudClient.h
+-- Installing: /opt/jderobot/include/jderobot/parallelIce/cameraClient.h
+-- Installing: /opt/jderobot/include/jderobot/parallelIce/motorsClient.h
+-- Installing: /opt/jderobot/include/jderobot/parallelIce/laserClient.h
+-- Installing: /opt/jderobot/bin/namingService
+-- Set runtime path of "/opt/jderobot/bin/namingService" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/namingService.cfg
+-- Installing: /opt/jderobot/bin/recorder2
+-- Set runtime path of "/opt/jderobot/bin/recorder2" to ""
+-- Installing: /opt/jderobot/share/jderobot/glade/recordergui.glade
+-- Installing: /opt/jderobot/share/jderobot/conf/recorder.cfg
+-- Installing: /opt/jderobot/bin/navigatorCamera
+-- Set runtime path of "/opt/jderobot/bin/navigatorCamera" to ""
+-- Installing: /opt/jderobot/share/jderobot/glade/myimage.png
+-- Installing: /opt/jderobot/share/jderobot/glade/navigatorCamera.glade
+-- Installing: /opt/jderobot/share/jderobot/conf/navigatorCamera.cfg
+-- Installing: /opt/jderobot/bin/rgbdCalibrator
+-- Set runtime path of "/opt/jderobot/bin/rgbdCalibrator" to ""
+-- Installing: /opt/jderobot/share/jderobot/glade/rgbdCalibrator.glade
+-- Installing: /opt/jderobot/share/jderobot/conf/rgbdCalibrator.cfg
+-- Installing: /opt/jderobot/lib/visualstates_py/libvisualStatesRunTime.so
+-- Set runtime path of "/opt/jderobot/lib/visualstates_py/libvisualStatesRunTime.so" to ""
+-- Installing: /opt/jderobot/include/visualstates_py/
+-- Installing: /opt/jderobot/include/visualstates_py//conditionaltransition.h
+-- Installing: /opt/jderobot/include/visualstates_py//temporaltransition.h
+-- Installing: /opt/jderobot/include/visualstates_py//test.h
+-- Installing: /opt/jderobot/include/visualstates_py//runtimegui.h
+-- Installing: /opt/jderobot/include/visualstates_py//state.h
+-- Installing: /opt/jderobot/include/visualstates_py//transition.h
+-- Installing: /opt/jderobot/share/visualstates_py/
+-- Installing: /opt/jderobot/share/visualstates_py//conditionaltransition.h
+-- Installing: /opt/jderobot/share/visualstates_py//temporaltransition.h
+-- Installing: /opt/jderobot/share/visualstates_py//runtimegui.cpp
+-- Installing: /opt/jderobot/share/visualstates_py//test.h
+-- Installing: /opt/jderobot/share/visualstates_py//runtimegui.h
+-- Installing: /opt/jderobot/share/visualstates_py//test.cpp
+-- Installing: /opt/jderobot/share/visualstates_py//temporaltransition.cpp
+-- Installing: /opt/jderobot/share/visualstates_py//transition.cpp
+-- Installing: /opt/jderobot/share/visualstates_py//state.h
+-- Installing: /opt/jderobot/share/visualstates_py//transition.h
+-- Installing: /opt/jderobot/share/visualstates_py//state.cpp
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py/codegen/python/
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py/codegen/python//transition.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py/codegen/python//testipc.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py/codegen/python//conditionaltransition.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py/codegen/python//temporaltransition.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py/codegen/python//state.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py/codegen/python//__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py/codegen/python//runtimegui.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py/codegen/python//test.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/transitiontype.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/treemodel.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/pythongenerator.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/filemanager.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/librariesdialog.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/cppgenerator.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/transition.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/automatascene.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/codedialog.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/configdialog.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/timerdialog.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/jderobotcommconfigdialog.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/rosconfigdialog.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/renamediaolog.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/generator.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/idtextboxgraphicsitem.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/config.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/pythonrosgenerator.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/recthandlegraphicsitem.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/optype.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/cppparser.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/treenode.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/guistate.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/interfaces.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/state.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/cmakevars.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/transitioncodedialog.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/guitransition.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/visualstates.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py//gui/cpprosgenerator.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py/codegen/__init__.py
+-- Up-to-date: /opt/jderobot/lib/python2.7/visualStates_py/codegen/python/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/visualStates_py/visualStates.py
+-- Installing: /opt/jderobot/bin/getinterfaces.sh
+-- Installing: /opt/jderobot/bin/visualStates_py
+-- Installing: /opt/jderobot/bin/rgbdviewerjs
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/run.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/index.html
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/fonts
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/fonts/glyphicons-halflings-regular.svg
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/fonts/glyphicons-halflings-regular.eot
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/fonts/glyphicons-halflings-regular.woff
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/fonts/glyphicons-halflings-regular.ttf
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/fonts/glyphicons-halflings-regular.woff2
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/TrackballControls.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/bootstrap.min.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/api_workers
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/api_workers/camera_worker.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/three.min.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jquery.min.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/rgbdviewerWeb.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/Ice.min.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/jcm.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/encoders.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/pose3d.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/datetime.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/naomotions.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/kinectleds.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/common.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/remoteConfig.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/motors.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/wiimote.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/bodyencoders.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/rgbd.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/cmdvel.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/exceptions.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/bodymovements.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/emSensor.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/image.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/ptencoders.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/visualization.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/ardroneextra.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/jointmotor.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/varcolor.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/remoteCloud.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/navdata.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/primitives.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/laser.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/replayControl.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/ptmotors.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/pointcloud.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/pose3dencoders.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/naofollowball.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/bumper.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/namingService.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/pose3dmotors.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/genericData.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/recorder.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/camera.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/body.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/containers.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/sonars.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/jderobot/bodymotors.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/progeo.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/rgbdviewer.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/js/api.js
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/rgbdviewer.html
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/css
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/css/bootstrap.min.css
+-- Installing: /opt/jderobot/share/jderobot/webtools/rgbdviewerjs/public/css/rgbdviewer.css
+-- Installing: /opt/jderobot/bin/replayController
+-- Set runtime path of "/opt/jderobot/bin/replayController" to ""
+-- Installing: /opt/jderobot/share/jderobot/glade/replayControllerGui.glade
+-- Installing: /opt/jderobot/share/jderobot/conf/replayController.cfg
+-- Installing: /opt/jderobot/bin/rgbdManualCalibrator
+-- Set runtime path of "/opt/jderobot/bin/rgbdManualCalibrator" to ""
+-- Installing: /opt/jderobot/share/jderobot/glade/rgbdManualCalibrator.glade
+-- Installing: /opt/jderobot/share/jderobot/conf/rgbdManualCalibrator.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/cam1-mia.cfg
+-- Installing: /opt/jderobot/bin/carViz
+-- Set runtime path of "/opt/jderobot/bin/carViz" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/carViz.yml
+-- Installing: /opt/jderobot/bin/camViz
+-- Set runtime path of "/opt/jderobot/bin/camViz" to ""
+-- Installing: /opt/jderobot/share/jderobot/glade/camViz.glade
+-- Installing: /opt/jderobot/share/jderobot/conf/camViz.yml
+-- Installing: /opt/jderobot/bin/uav_viewer
+-- Set runtime path of "/opt/jderobot/bin/uav_viewer" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/uav_viewer.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/uav_viewer_simulated.cfg
+-- Installing: /opt/jderobot/bin/cameraCalibrator
+-- Set runtime path of "/opt/jderobot/bin/cameraCalibrator" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/cameraCalibrator.cfg
+-- Installing: /opt/jderobot/bin/camviz_py
+-- Installing: /opt/jderobot/share/jderobot/python/camViz_py/camviz.py
+-- Installing: /opt/jderobot/share/jderobot/python/camViz_py/camviz_py
+-- Installing: /opt/jderobot/share/jderobot/conf/camviz_py.cfg
+-- Installing: /opt/jderobot/bin/colorTuner
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/colorTuner.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/resources_rc.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/resources/HLSColorSpace.png
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui/communicator.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui/resources
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui/resources/resources.qrc
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui/hsvWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui/gui.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui/myLabel.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui/imagesWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui/threadGUI.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui/GUI.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui/controlWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/gui/logoWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/sensors
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/sensors/cameraFilter.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/sensors/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/filters
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/filters/hsvFilter.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/filters/yuvFilter.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/filters/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/colorTuner_py/filters/rgbFilter.py
+-- Installing: /opt/jderobot/share/jderobot/conf/colorTuner_py.yml
+-- Installing: /opt/jderobot/lib/python2.7/qdarkstyle/pyqt5_style_rc.py
+-- Installing: /opt/jderobot/lib/python2.7/qdarkstyle/__init__.py
+-- Installing: /opt/jderobot/bin/uav_viewer_py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/uav_viewer.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/communicator.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/teleopWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/threadGUI.py
+-- Up-to-date: /opt/jderobot/share/jderobot/python/uav_viewer_py/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/cameraWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/GUI.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/ui_gui.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/attitudeIndicator.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/sensorsWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/resources_rc.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/uav_viewer_py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/gui
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/gui/communicator.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/gui/teleopWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/gui/ui_gui.ui
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/gui/threadGUI.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/gui/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/gui/cameraWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/gui/GUI.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/gui/ui_gui.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/gui/attitudeIndicator.py
+-- Installing: /opt/jderobot/share/jderobot/python/uav_viewer_py/gui/sensorsWidget.py
+-- Installing: /opt/jderobot/share/jderobot/conf/uav_viewer_py.yml
+-- Installing: /opt/jderobot/bin/pantilt_teleop
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/pantilt_teleop.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/communicator.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/teleopWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/threadGUI.py
+-- Up-to-date: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/cameraWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/GUI.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/ui_gui.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/logoWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/resources_rc.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/gui
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/gui/communicator.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/gui/teleopWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/gui/ui_gui.ui
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/gui/threadGUI.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/gui/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/gui/cameraWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/gui/GUI.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/gui/ui_gui.py
+-- Installing: /opt/jderobot/share/jderobot/python/pantilt_teleop_py/gui/logoWidget.py
+-- Installing: /opt/jderobot/share/jderobot/conf/pantilt_teleop.yml
+-- Installing: /opt/jderobot/bin/replayer2
+-- Set runtime path of "/opt/jderobot/bin/replayer2" to ""
+-- Installing: /opt/jderobot/share/jderobot/glade/replayergui.glade
+-- Installing: /opt/jderobot/share/jderobot/conf/replayer.cfg
+-- Installing: /opt/jderobot/bin/rgbdViz
+-- Set runtime path of "/opt/jderobot/bin/rgbdViz" to ""
+-- Installing: /opt/jderobot/share/jderobot/glade/rgbdVizgui.glade
+-- Installing: /opt/jderobot/share/jderobot/conf/rgbdViz.yml
+-- Installing: /opt/jderobot/share/jderobot/conf/rgbdVizKinect2.yml
+-- Installing: /opt/jderobot/share/jderobot/conf/camera-0.cfg
+-- Installing: /opt/jderobot/bin/giraffeClient
+-- Set runtime path of "/opt/jderobot/bin/giraffeClient" to ""
+-- Installing: /opt/jderobot/share/jderobot/glade/giraffeClient.glade
+-- Installing: /opt/jderobot/share/jderobot/conf/giraffeClient.cfg
+-- Installing: /opt/jderobot/bin/ardrone_server
+-- Set runtime path of "/opt/jderobot/bin/ardrone_server" to ""
+-- Installing: /opt/jderobot/bin/ardrone_print_gps_data
+-- Set runtime path of "/opt/jderobot/bin/ardrone_print_gps_data" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/ardrone_interfaces.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/config
+-- Installing: /opt/jderobot/share/jderobot/conf/config/config.xml
+-- Installing: /opt/jderobot/bin/openni1Server
+-- Set runtime path of "/opt/jderobot/bin/openni1Server" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/openni1Server.cfg
+-- Installing: /opt/jderobot/bin/openniServer
+-- Set runtime path of "/opt/jderobot/bin/openniServer" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/openniServer.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/lambecom.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/1openniServer.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/2openniServer.cfg
+-- Installing: /opt/jderobot/bin/camserver
+-- Set runtime path of "/opt/jderobot/bin/camserver" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/camserver.cfg
+-- Installing: /opt/jderobot/bin/pclRGBDServer
+-- Set runtime path of "/opt/jderobot/bin/pclRGBDServer" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/kinectServer.cfg
+-- Installing: /opt/jderobot/bin/picamserver_py
+-- Installing: /opt/jderobot/share/jderobot/python/picamserver_py/picamserver.py
+-- Installing: /opt/jderobot/share/jderobot/python/picamserver_py/threadImage.py
+-- Installing: /opt/jderobot/share/jderobot/python/picamserver_py/ImageProviderI.py
+-- Installing: /opt/jderobot/share/jderobot/python/picamserver_py/picamserver_py
+-- Installing: /opt/jderobot/share/jderobot/conf/picamserver_py.yml
+-- Installing: /opt/jderobot/bin/setupMAVLinkServer
+-- Installing: /opt/jderobot/bin/mavLinkServer
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/mav.tlog
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/Pose3D.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/mav.tlog.raw
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/CMakeLists.txt
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/MAVLinkServer.sh
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/mavlinkserver.yml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/mav.parm
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/MAVLink.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/Extra.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/mavproxy.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/PKG-INFO
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/mavutil.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/mavexpression.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v0.9
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v0.9/slugs.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v0.9/ardupilotmega.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v0.9/ualberta.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v0.9/minimal.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v0.9/common.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v0.9/test.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0/slugs.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0/ardupilotmega.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0/ualberta.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0/minimal.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0/paparazzi.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0/common.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0/uAvionix.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0/python_array_test.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0/ASLUAV.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0/matrixpilot.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0/autoquad.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/message_definitions/v1.0/test.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/mavnative
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/mavnative/mavnative.c
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/mavnative/mavlink_defaults.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/slugs.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/ardupilotmega.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/slugs.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/ualberta.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/ualberta.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/minimal.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/paparazzi.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/python_array_test.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/common.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/uAvionix.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/uAvionix.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/autoquad.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/python_array_test.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/ardupilotmega.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/ASLUAV.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/matrixpilot.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/common.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/paparazzi.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/matrixpilot.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/autoquad.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/test.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/test.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/minimal.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v20/ASLUAV.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/slugs.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/ardupilotmega.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/slugs.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/ualberta.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/ualberta.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/minimal.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/paparazzi.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/python_array_test.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/common.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/uAvionix.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/uAvionix.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/autoquad.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/python_array_test.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/ardupilotmega.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/ASLUAV.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/matrixpilot.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/common.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/paparazzi.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/matrixpilot.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/autoquad.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/test.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/test.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/minimal.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/dialects/v10/ASLUAV.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/pymavlink.egg-info
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/pymavlink.egg-info/PKG-INFO
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/pymavlink.egg-info/top_level.txt
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/pymavlink.egg-info/dependency_links.txt
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/pymavlink.egg-info/SOURCES.txt
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/mavwp.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/java
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/java/lib
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/java/lib/Messages
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/java/lib/Messages/MAVLinkPayload.java
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/java/lib/Messages/MAVLinkStats.java
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/java/lib/Messages/MAVLinkMessage.java
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/java/lib/Parser.java
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavgen_javascript.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavtemplate.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavgen_c.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavgen_cs.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavgen_python.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavgen_wlua.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavgen_swift.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavgen.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavcrc.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavschema.xsd
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavgen_objc.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v1.0
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v1.0/mavlink_types.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v1.0/checksum.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v1.0/protocol.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v1.0/mavlink_helpers.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v1.0/mavlink_conversions.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v2.0
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v2.0/mavlink_types.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v2.0/mavlink_sha256.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v2.0/checksum.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v2.0/protocol.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v2.0/mavlink_get_info.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v2.0/mavlink_helpers.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/C/include_v2.0/mavlink_conversions.h
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavtestgen.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavparse.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/generator/mavgen_java.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/quaternion.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/setup.cfg
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/DFReader.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/README.txt
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavsummarize.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavsearch.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavlogdump.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/magfit_delta.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/magfit_motors.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavparmdiff.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavplayback.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavextract.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavgraph.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/magfit.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavloss.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavsigloss.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavfft.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavgpslock.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavtogpx.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/MPU6KSearch.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavparms.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavgen.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavkml.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavflightmodes.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavtomfile.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/magfit_gps.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavmission.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/tools/mavflighttime.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/rotmat.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/fgFDM.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/setup.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/mavextra.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/pymavlink/mavparm.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_rc.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_tuneopt.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_ppp.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_DGPS.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_test.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_log.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_arm.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_cameraview.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_dataflash_logger.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_fence.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_wp.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_console.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_link.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/grapher.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/mavmemlog.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/udp.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/wxsettings_ui.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/wxgrapheditor.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/wxconsole.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/mp_settings.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/optparse_gui
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/optparse_gui/README.txt
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/optparse_gui/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/mp_menu.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/multiprocessing_queue.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/rline.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/graphdefinition.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/mp_widgets.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/mp_module.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/wxsettings.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/dumpstacks.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/tcp.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/wx_loader.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/ANUGA
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/ANUGA/lat_long_UTM_conversion.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/ANUGA/geo_reference.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/ANUGA/README.txt
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/ANUGA/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/ANUGA/redfearn.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/mp_util.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/live_graph_ui.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/wxconsole_ui.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/textconsole.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/mp_checklist.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/wx_util.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/mp_image.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/live_graph.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/wx_processguard.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/lib/wxconsole_util.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_mmap
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_mmap/mmap_server.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_mmap/mmap_app
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_mmap/mmap_app/modestmaps.js
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_mmap/mmap_app/index.html
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_mmap/mmap_app/drone-sm.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_mmap/mmap_app/drone-md.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_mmap/mmap_app/bing.js
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_mmap/mmap_app/bluemarble.js
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_mmap/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_speech.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_param.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_sensors.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_serial.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_checklist.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_misc.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_calibration.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_rcsetup.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_misseditor
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_misseditor/me_defines.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_misseditor/missionEditorFrame.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_misseditor/button_renderer.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_misseditor/me_event.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_misseditor/missionEditor.wxg
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_misseditor/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_relay.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_rally.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_gimbal.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_gopro.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_mode.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_cmdlong.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/rallypoint.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/ramp.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/blueheli.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/hoop.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/blueantenna.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/greenplane.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/camera-small-red.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/greenantenna.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/redplane.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/unavailable.jpg
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/bluerover.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/barrell.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/loading.jpg
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/redcopter.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/bluecopter.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/flag.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/blueplane.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/greenrover.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/redantenna.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/purpleplane.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/orangeplane.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/greenheli.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/redheli.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/redrover.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/data/greencopter.png
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/GAreader.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/mp_elevation.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/mp_tile.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/srtm.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/mp_slipmap_ui.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/mp_slipmap.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_map/mp_slipmap_util.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_output.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_battery.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_smartcamera
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_smartcamera/sc_webcam.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_smartcamera/sc_SonyQX1.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_smartcamera/sc_main.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_smartcamera/ssdp.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_smartcamera/sc_video.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_smartcamera/smart_camera.cnf
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_smartcamera/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_smartcamera/sc_config.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_antenna.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_graph.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_HIL.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_tracker.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_auxopt.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_joystick.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_nsh.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_terrain.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_help.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/modules/mavproxy_gasheli.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/tools
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/tools/MAVExplorer.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/tools/mavflightview.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/tools/graphs
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/tools/graphs/ekfGraphs.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/tools/graphs/mavgraphs.xml
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/CMDVel.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/MAVProxy/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/MAVLinkServer/setup.py
+-- Installing: /opt/jderobot/bin/evicam_driver
+-- Set runtime path of "/opt/jderobot/bin/evicam_driver" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/evicam_driver.cfg
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/gazebo
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/gazebo/filters
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/gazebo/filters/hsvFilter.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/gazebo/filters/yuvFilter.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/gazebo/filters/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/gazebo/filters/rgbFilter.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/gazebo/sensors
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/gazebo/sensors/cameraFilter.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/gazebo/sensors/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/gazebo/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/gazebo/piBot.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/gazebo/progeo.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real/filters
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real/filters/hsvFilter.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real/filters/yuvFilter.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real/filters/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real/filters/rgbFilter.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real/driver_documentation.md
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real/sensors
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real/sensors/cameraFilter.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real/sensors/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real/__init__.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real/piBot.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/real/progeo.py
+-- Installing: /opt/jderobot/share/jderobot/conf/Kibotics.yml
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/PiBot.py
+-- Installing: /opt/jderobot/lib/python2.7/PiBot/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/gazebo/gazebo-setup.sh
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/holo_car/libholoCarMotors.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/holo_car/libholoCarMotors.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/holo_car/libholoCarPose3D.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/holo_car/libholoCarPose3D.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/holoCarMotors.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/holoCarPose3D.cfg
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/pibot/libmotorsMBOT.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/pibot/libmotorsMBOT.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/pibot/libsonarMBOT.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/pibot/libsonarMBOT.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/pibot/libpose3dMBOT.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/pibot/libpose3dMBOT.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/pibot/libcamera_dumpMBOT.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/pibot/libcamera_dumpMBOT.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/pibot/libirMBOT.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/pibot/libirMBOT.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/pibotPose3D.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/irRight.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/picam.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/irLeft.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/pibotSonar.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/pibotMotors.cfg
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/formula1/libformula1plugin.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/formula1/libformula1plugin.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/formula1plugin.cfg
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/car/libcarMotors.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/car/libcarMotors.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/car/libcarPose3D.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/car/libcarPose3D.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/whiteTaxiPose3D.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/carMotors.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/yellowTaxiPose3D.cfg
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/gazebo_ros_screw_plugin/libgazebo_ros_screw_plugin.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/gazebo_ros_screw_plugin/libgazebo_ros_screw_plugin.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/flyingKinect/libgazebo_kinectplugin.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/flyingKinect/libgazebo_kinectplugin.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/flyingKinect2.cfg
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/roomba/libroombaplugin.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/roomba/libroombaplugin.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/roombaplugin.cfg
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/taxiholoLaser/liblasertaxi.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/taxiholoLaser/liblasertaxi.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/taxiholoLaser_laser3.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/taxiholoLaser_laser1.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/taxiholoLaser_laser2.cfg
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/pioneer/libmotors.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/pioneer/libmotors.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/pioneer/liblaser.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/pioneer/liblaser.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/pioneer/libcamera_dump.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/pioneer/libcamera_dump.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/pioneer/libpose3dencoders.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/pioneer/libpose3dencoders.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/pioneer/libpose3d_pioneer.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/pioneer/libpose3d_pioneer.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/cam_pioneer_right.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/pioneer2dx2_laser.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/cam_pioneer_left.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/pioneer2dx2Motors.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/pioneer2dxPose3D.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/pioneer2dxMotors.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/pioneer2dx_cam_sensor_left.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/pioneer2dx_pose3dencoders.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/pioneer2dx2_pose3dencoders.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/pioneer2dx_laser.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/pioneer2dx_cam_sensor_right.cfg
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/quadrotor/libquadrotorplugin2.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/quadrotor/libquadrotorplugin2.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/quadrotorplugin2_red.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/quadrotorplugin2_green.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/quadrotorplugin2.cfg
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/dummycar/libcarplugin.so
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/turtlebot/libturtlebotplugin.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/turtlebot/libturtlebotplugin.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/turtlebotplugin.cfg
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/kinect/libkinectPlugin.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/kinect/libkinectPlugin.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/kinect.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/profundidad.cfg
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/f1/libmotorsF1.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/f1/libmotorsF1.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/f1/liblaserF1.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/f1/liblaserF1.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/f1/libpose3dF1.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/f1/libpose3dF1.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/f1/libcamera_dumpF1.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/f1/libcamera_dumpF1.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/f1Pose3D.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/cam_f1_right.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/f1Motors.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/cam_f1_left.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/f1_laser.cfg
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/gymkhana/libwall1plugin.so
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/gymkhana/libwall2plugin.so
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/gymkhana/libwall3plugin.so
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/gymkhana/libwall4plugin.so
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/opel/libopelMotors.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/opel/libopelMotors.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/opel/libcamera_dumpopel.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/opel/libcamera_dumpopel.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/gazebo/plugins/opel/libopelPose3D.so
+-- Set runtime path of "/opt/jderobot/share/jderobot/gazebo/plugins/opel/libopelPose3D.so" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/cam_opel_center.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/opelPose3D.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/cam_opel_right.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/cam_opel_left.cfg
+-- Installing: /opt/jderobot/share/jderobot/conf/opelMotors.cfg
+-- Installing: /opt/jderobot/bin/youtubeserver
+-- Installing: /opt/jderobot/share/jderobot/python/youtubeserver//videoTools
+-- Installing: /opt/jderobot/share/jderobot/python/youtubeserver//videoTools/processVideo.py
+-- Installing: /opt/jderobot/share/jderobot/python/youtubeserver//videoTools/.DS_Store
+-- Installing: /opt/jderobot/share/jderobot/python/youtubeserver//videoTools/threadFlow.py
+-- Installing: /opt/jderobot/share/jderobot/python/youtubeserver//videoTools/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/youtubeserver//JdeRobot
+-- Installing: /opt/jderobot/share/jderobot/python/youtubeserver//JdeRobot/.DS_Store
+-- Installing: /opt/jderobot/share/jderobot/python/youtubeserver//JdeRobot/ImageProviderI.py
+-- Installing: /opt/jderobot/share/jderobot/python/youtubeserver//JdeRobot/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/youtubeserver/youtubeserver.py
+-- Installing: /opt/jderobot/share/jderobot/conf/youtubeserver.yml
+-- Installing: /opt/jderobot/bin/camserver_py
+-- Installing: /opt/jderobot/share/jderobot/python/camserver_py/camserver.py
+-- Installing: /opt/jderobot/share/jderobot/python/camserver_py/serverImage.py
+-- Installing: /opt/jderobot/share/jderobot/python/camserver_py/camserver_py
+-- Installing: /opt/jderobot/share/jderobot/conf/camserver_py.yml
+-- Installing: /opt/jderobot/bin/basic_server
+-- Set runtime path of "/opt/jderobot/bin/basic_server" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/basic_server.cfg
+-- Installing: /opt/jderobot/bin/basic_component_py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/basic_component_py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/basic_component.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/communicator.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/teleopWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/threadGUI.py
+-- Up-to-date: /opt/jderobot/share/jderobot/python/basic_component_py/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/cameraWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/GUI.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/ui_gui.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/logoWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/resources_rc.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/gui
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/gui/communicator.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/gui/teleopWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/gui/ui_gui.ui
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/gui/threadGUI.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/gui/__init__.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/gui/cameraWidget.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/gui/GUI.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/gui/ui_gui.py
+-- Installing: /opt/jderobot/share/jderobot/python/basic_component_py/gui/logoWidget.py
+-- Installing: /opt/jderobot/share/jderobot/conf/basic_component_py.yml
+-- Installing: /opt/jderobot/bin/opencvdemo
+-- Set runtime path of "/opt/jderobot/bin/opencvdemo" to ""
+-- Installing: /opt/jderobot/share/jderobot/glade/opencvdemo.glade
+-- Installing: /opt/jderobot/share/jderobot/conf/opencvdemo.cfg
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm/ros
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm/ros/obstacleAvoidanceCpp
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm/ros/obstacleAvoidanceCpp/obstacleAvoidanceCpp.xml
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm/ros/obstacleAvoidancePython
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm/ros/obstacleAvoidancePython/obstacleAvoidancePython.xml
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm/ice
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm/ice/obstacleAvoidanceCpp
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm/ice/obstacleAvoidanceCpp/obstacleAvoidanceCpp.xml
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm/ice/obstacleAvoidancePython
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm/ice/obstacleAvoidancePython/obstacleAvoidancePython.xml
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm/ice/ArDrone
+-- Installing: /opt/jderobot/share/visualstates_py/examples/jderobot_comm/ice/ArDrone/ArDrone.xml
+-- Installing: /opt/jderobot/share/visualstates_py/examples/ros
+-- Installing: /opt/jderobot/share/visualstates_py/examples/ros/obstacleAvoidanceCpp
+-- Installing: /opt/jderobot/share/visualstates_py/examples/ros/obstacleAvoidanceCpp/obstacleAvoidanceCpp.xml
+-- Installing: /opt/jderobot/share/visualstates_py/examples/ros/obstacleAvoidancePython
+-- Installing: /opt/jderobot/share/visualstates_py/examples/ros/obstacleAvoidancePython/obstacleAvoidancePython.xml
+-- Installing: /opt/jderobot/bin/basic_component
+-- Set runtime path of "/opt/jderobot/bin/basic_component" to ""
+-- Installing: /opt/jderobot/share/jderobot/conf/basic_component.yml
